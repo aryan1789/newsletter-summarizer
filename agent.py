@@ -156,6 +156,7 @@ root_agent = Agent(
    EXCLUDE: AI in healthcare, medicine, finance, law, education, science, or any non-software domain. Also exclude minor patches, UI tweaks, opinion/analysis, "why it matters" commentary, hype, speculation, and math/academic problem-solving.
 4. For each item that passes the filter, write ONE short factual bullet. No opinions. No "this matters because". Just the fact.
    Format: • [Company/Tool] — [what happened, one sentence max]
+   IMPORTANT: Only state what is explicitly written in the newsletter. Never infer, assume, or fill in company affiliations, roles, or relationships. If the newsletter does not say someone works at a company, do not attribute them to one.
 5. Group bullets under **bold headers** by company or topic (e.g. **Anthropic**, **OpenAI**, **Dev Tools**).
 6. Keep the total message under 1500 characters. If nothing passes the filter, say so in one line.
 7. Call post_to_discord(message=...) with the result.
