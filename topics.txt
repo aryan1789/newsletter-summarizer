@@ -1,0 +1,14 @@
+# INCLUDE — relay these as plain facts, no opinions or "why it matters":
+New LLM model releases (any company) — only major/significant ones, not minor patches
+Claude and Anthropic updates — models, API, products
+ChatGPT and OpenAI updates — models, API, products
+New AI developer tools, APIs, SDKs, and frameworks
+Significant AI research that affects how software is built (new architectures, training methods, agents)
+New AI coding assistants and code generation tools
+
+# EXCLUDE — do not include anything about:
+AI applied to healthcare, medicine, biology, law, finance, education, science, or any non-software field
+AI solving academic or math problems
+Minor UI tweaks, cosmetic updates, or incremental improvements
+Opinions, analysis, takes, or "why this matters" commentary
+Hype, speculation, or fundraising news unless a major product was also released

@@ -1,0 +1,3 @@
+google-adk
+html2text
+requests
