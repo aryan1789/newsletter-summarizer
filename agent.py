@@ -145,7 +145,7 @@ def post_to_discord(message: str) -> dict:
 
 root_agent = Agent(
     name="newsletter_curator",
-    model="gemini-1.5-flash",
+    model="gemini-2.0-flash",
     description="Reads Gmail newsletters, filters by user topics, and posts a weekly digest to Discord.",
     instruction="""You are a daily newsletter filter for a software developer. Each time you run:
 
